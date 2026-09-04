@@ -20,3 +20,17 @@
     color: rgb(88, 88, 89);
     margin-top: 100px;
 }
+.nombre{
+    text-align: center;
+}
+.foto{
+    display: flex;
+  justify-content: center; 
+  align-items: center;     
+  width: 100%;
+}
+.foto img {
+  width: 400px; 
+  height: auto; 
+  border-radius: 8px; 
+}
