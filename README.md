@@ -16,11 +16,10 @@ Archivos principales:
 - acerca.html
 
 Estructura de la plantilla:
----
-/--
-  |- css .- Hojas de estilo para las páginas html
-  |- img .- Imagenes utilizadas en las páginas html
-  |- varios .- Archivos para el diseño de readme.
+
+  - css .- Hojas de estilo para las páginas html
+  - img .- Imagenes utilizadas en las páginas html
+  - varios .- Archivos para el diseño de readme.
 
 
 Dominguez Hernandez Carlos Eduardo
