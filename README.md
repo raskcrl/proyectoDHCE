@@ -22,6 +22,6 @@ Estructura de la plantilla:
   |- img .- Imagenes utilizadas en las páginas html
   |- varios .- Archivos para el diseño de readme.
 
-Autor:
+
 Dominguez Hernandez Carlos Eduardo
 @raskcrl :+1:
